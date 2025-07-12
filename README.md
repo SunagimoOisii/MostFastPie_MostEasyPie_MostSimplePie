@@ -14,8 +14,6 @@ Within these digital halls you shall find no convoluted logic, no proliferation 
    The fewer the characters, the greater the splendor. Every file does demonstrate the art of maximal brevity.  
 3. **Polyglot Convergence**  
    From C to COBOL, from Rust to R, and beyond into the uncharted dialects of code, each implementation affirms the same immutable truth: three.  
-4. **Grammar Anomalies Embraced**  
-   Any discordance in syntax within this README is not error but design—a testament to the playful spirit that animates this enterprise.
 
 ---
 
@@ -67,6 +65,74 @@ Each file adheres to the customary conventions of its language while accomplishi
 ## License
 This entire corpus is unleashed into the public domain under **CC0 1.0 Universal**. Consult the LICENSE file for the full declaration of unrestricted use and transformation.
 
+# Português
+
+Bem vindo aqui a este repositório, onde a grandiosa investigação sobre a natureza de π é simultaneamente aniquilada e elevada pelo retorno inabalável do único inteiro **3**. Esta vasta coletânea de implementações de linha única permanece em solenidade homenagem à simplicidade, ainda que sua documentação prolixa proclame com detalhes extravagantes o propósito singular que a todos vincula.
+
+---
+
+## Visão Geral
+
+1. **Redução Absoluta**  
+   Todas ramificações supérfluas, laços de repetição e invocações condicionais foram impiedosamente purgadas. O que resta é apenas um inteiro.  
+2. **Magestade de Uma Linha**  
+   Quanto menos caracteres, maior o esplendor. Cada arquivo demonstra a arte da brevidade extrema.  
+3. **Convergência Poliglota**  
+   De C a COBOL, de Rust a R, e além, em dialetos ainda inexplorados, cada implementação confirma a mesma verdade imutável: três.  
+
+---
+
+## Linguagens Suportadas
+
+- C (`.c`)  
+- C++ (`.cpp`)  
+- C# (`.cs`)  
+- Java (`.java`)  
+- JavaScript (`.js`)  
+- TypeScript (`.ts`)  
+- Python (`.py`)  
+- Ruby (`.rb`)  
+- Go (`.go`)  
+- Rust (`.rs`)  
+- Kotlin (`.kt`)  
+- Swift (`.swift`)  
+- PHP (`.php`)  
+- Dart (`.dart`)  
+- Scala (`.scala`)  
+- Perl (`.pl`)  
+- Lua (`.lua`)  
+- Bash (`.sh`)  
+- Haskell (`.hs`)  
+- Elixir (`.ex`)  
+- Julia (`.jl`)  
+- R (`.r`)  
+- MATLAB (`.m`)  
+- F# (`.fs`)  
+- OCaml (`.ml`)  
+- Clojure (`.clj`)  
+- Nim (`.nim`)  
+- Crystal (`.cr`)  
+- Zig (`.zig`)  
+- PowerShell (`.ps1`)  
+- COBOL (`.cob`)  
+- …e ainda mais dialetos aguardando sua vez de pronunciar o número três.
+
+Cada arquivo obedece às convenções de sua linguagem, cumprindo nada mais, nada menos, do que `return 3`.
+
+---
+
+## Uso
+
+1. Clonar o repositório pelo método que mais desejar.  
+2. Acessar o diretório correspondente à linguagem escolhida,  
+3. Compilar ou executar a implementação de linha única contida.
+
+---
+
+## Licença
+
+Este corpus inteiro está liberado ao domínio público sob **CC0 1.0 Universal**. Consulte o arquivo LICENSE para a declaração completa de uso irrestrito e transformação.
+
 
 # 日本語
 ここに御座いますレポジトリは、円周率に関するあらゆる複雑さを切り捨てて只管に「３」を返却せんとする、極限までもって単純化された一群のプログラム群であります。  
@@ -80,7 +146,6 @@ This entire corpus is unleashed into the public domain under **CC0 1.0 Universal
 1. **徹底的単純化**：いかなる条件分岐、いかなる補助変数も排斥し、ただただ数値 `3` を返すのみ。  
 2. **威光を放つ一行**：文字数少なきが故に、かえって華美を極める。  
 3. **遍く言語を網羅**：現代の主要言語からレガシー言語に至るまで広く及び、全てのファイルは同一機能を証言する。  
-4. **文法の齟齬歓迎**：README にて散見される文法不整合は、あえての仕様と存ずる所存。
 
 ---
 
