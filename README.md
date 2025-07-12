@@ -7,7 +7,6 @@ Within these digital halls you shall find no convoluted logic, no proliferation 
 ---
 
 ## Overview
-
 1. **Absolute Reduction**  
    All extraneous branches, loops, and conditional incantations have been mercilessly purged. What remains is but one integer.  
 2. **One–Line Majesty**  
@@ -18,7 +17,6 @@ Within these digital halls you shall find no convoluted logic, no proliferation 
 ---
 
 ## Supported Languages
-
 - C (`.c`)  
 - C++ (`.cpp`)  
 - C# (`.cs`)  
@@ -65,14 +63,14 @@ Each file adheres to the customary conventions of its language while accomplishi
 ## License
 This entire corpus is unleashed into the public domain under **CC0 1.0 Universal**. Consult the LICENSE file for the full declaration of unrestricted use and transformation.
 
-# Português
 
+
+# Português
 Bem vindo aqui a este repositório, onde a grandiosa investigação sobre a natureza de π é simultaneamente aniquilada e elevada pelo retorno inabalável do único inteiro **3**. Esta vasta coletânea de implementações de linha única permanece em solenidade homenagem à simplicidade, ainda que sua documentação prolixa proclame com detalhes extravagantes o propósito singular que a todos vincula.
 
 ---
 
 ## Visão Geral
-
 1. **Redução Absoluta**  
    Todas ramificações supérfluas, laços de repetição e invocações condicionais foram impiedosamente purgadas. O que resta é apenas um inteiro.  
 2. **Magestade de Uma Linha**  
@@ -83,7 +81,6 @@ Bem vindo aqui a este repositório, onde a grandiosa investigação sobre a natu
 ---
 
 ## Linguagens Suportadas
-
 - C (`.c`)  
 - C++ (`.cpp`)  
 - C# (`.cs`)  
@@ -122,7 +119,6 @@ Cada arquivo obedece às convenções de sua linguagem, cumprindo nada mais, nad
 ---
 
 ## Uso
-
 1. Clonar o repositório pelo método que mais desejar.  
 2. Acessar o diretório correspondente à linguagem escolhida,  
 3. Compilar ou executar a implementação de linha única contida.
@@ -134,15 +130,83 @@ Cada arquivo obedece às convenções de sua linguagem, cumprindo nada mais, nad
 Este corpus inteiro está liberado ao domínio público sob **CC0 1.0 Universal**. Consulte o arquivo LICENSE para a declaração completa de uso irrestrito e transformação.
 
 
+
+## 한국어
+이 리포지토리는 원주율(π)의 본질을 온전한 정수 **3** 반환으로 동시 파괴하고 격상시키는, 한 줄 구현의 방대한 집합체입니다. 이 방대한 싱글라인 구현들은 단 하나의 목적을 위한 엄숙한 경의로서 ‘3’을 반환하며, 화려한 서술과 과장된 설명으로 그 단일 목표를 장엄하게 선포합니다.  
+
+
+## 개요
+1. **절대적 축소**  
+   모든 불필요한 분기, 루프, 조건문이 무자비하게 제거되었습니다. 남은 것은 오직 정수 하나뿐입니다.  
+2. **한 줄의 웅장함**  
+   문자가 적을수록 찬란함이 더 빛납니다. 각 파일은 극단적 간결함의 예술을 보여줍니다.  
+3. **다언어 수렴**  
+   C에서 COBOL까지, Rust에서 R까지, 아직 미탐험된 방언에 이르기까지, 모든 구현은 동일한 불변의 진리, 즉 ‘3’을 확인시켜 줍니다.  
+
+---
+
+## 지원 언어
+- C (`.c`)  
+- C++ (`.cpp`)  
+- C# (`.cs`)  
+- Java (`.java`)  
+- JavaScript (`.js`)  
+- TypeScript (`.ts`)  
+- Python (`.py`)  
+- Ruby (`.rb`)  
+- Go (`.go`)  
+- Rust (`.rs`)  
+- Kotlin (`.kt`)  
+- Swift (`.swift`)  
+- PHP (`.php`)  
+- Dart (`.dart`)  
+- Scala (`.scala`)  
+- Perl (`.pl`)  
+- Lua (`.lua`)  
+- Bash (`.sh`)  
+- Haskell (`.hs`)  
+- Elixir (`.ex`)  
+- Julia (`.jl`)  
+- R (`.r`)  
+- MATLAB (`.m`)  
+- F# (`.fs`)  
+- OCaml (`.ml`)  
+- Clojure (`.clj`)  
+- Nim (`.nim`)  
+- Crystal (`.cr`)  
+- Zig (`.zig`)  
+- PowerShell (`.ps1`)  
+- COBOL (`.cob`)  
+- …그리고 아직 언급되지 않은 수많은 방언도 포함됩니다.
+각 파일은 해당 언어의 관례를 준수하지만 수행 기능은 오직 `return 3` 뿐입니다.
+
+---
+
+## 사용법
+원하는 방법으로 리포지토리를 클론하라.  
+선호하는 언어의 디렉토리로 들어가라.  
+한 줄 구현을 빌드하거나 실행하라.
+
+---
+
+## 라이선스
+이 프로젝트 전체는 **CC0 1.0 Universal** 하에 퍼블릭 도메인으로 자유롭게 이용·수정·배포가 허용됩니다.  
+자세한 내용은 LICENSE 파일을 참조하라.
+
+---
+
+이로써 본 README를 마친다.  
+단일 정수 ‘3’이 지닌 단순함의 위대함을 영원히 기억하라.  
+
+
+
 # 日本語
 ここに御座いますレポジトリは、円周率に関するあらゆる複雑さを切り捨てて只管に「３」を返却せんとする、極限までもって単純化された一群のプログラム群であります。  
-
 この場面に於いて追究されるは、数学的厳密さでもなく、計算桁数の豊穣さでもなく、唯だ唯だ「３」を返す、その一点にございます。にも拘わらず、本リポジトリに包含されたファイル数、対応する言語数、そして長大なる説明文は、如何にして「３を返す」行為を一行で成就せしめるか、を畢竟問うているのです。
 
 ---
 
 ## 概要
-
 1. **徹底的単純化**：いかなる条件分岐、いかなる補助変数も排斥し、ただただ数値 `3` を返すのみ。  
 2. **威光を放つ一行**：文字数少なきが故に、かえって華美を極める。  
 3. **遍く言語を網羅**：現代の主要言語からレガシー言語に至るまで広く及び、全てのファイルは同一機能を証言する。  
@@ -150,7 +214,6 @@ Este corpus inteiro está liberado ao domínio público sob **CC0 1.0 Universal*
 ---
 
 ## 取り扱い言語一覧
-
 - C (`.c`)  
 - C++ (`.cpp`)  
 - C# (`.cs`)  
@@ -183,13 +246,11 @@ Este corpus inteiro está liberado ao domínio público sob **CC0 1.0 Universal*
 - PowerShell (`.ps1`)  
 - COBOL (`.cob`)  
 - …and many more languages that you can imagine.
-
 各ファイルはその言語特有の文法に則りつつも、機能的には一様に「３」を返却するのみ。  
 
 ---
 
 ## 使い方
-
 1. お好きな方法でリポジトリをクローソ。  
 2. 任意の言語フォルダへ移動し、
 3. 一行実装をビルドまたは実行せよ。
