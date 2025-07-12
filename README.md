@@ -58,14 +58,9 @@ Each file adheres to the customary conventions of its language while accomplishi
 ---
 
 ## Usage
-
-Clone the repository with your chosen method: `git clone https://github.com/SunagimoOisii/MostFastPie_MostEasyPie_MostSimplePie.git`  
-Navigate into any folder and execute the one-line marvel directly:
-
-- Python: `python -c "import calc_pi; print(calc_pi())"`  
-- JavaScript: `node -e "console.log(require('./calc_pi')());"`  
-- C: `gcc calc_pi.c -o calc_pi && ./calc_pi`  
-- …and likewise for every other language in this compendium.
+1. Clone the repository by whatever method you fancy.  
+2. Enter the directory corresponding to the language of your choice.  
+3. Build or execute the one-line implementation within.  
 
 ---
 
